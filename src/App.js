@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Football Fans Jharkhand
+      Football Fans Jharkhand and Bihar
     </div>
   );
 }
