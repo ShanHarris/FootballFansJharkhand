@@ -1,9 +1,10 @@
 import './App.css';
+import Home from './routes/Home';
 
 function App() {
   return (
     <div className="App">
-      Football Fans Jharkhand and Bihar
+      <Home />
     </div>
   );
 }
